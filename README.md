@@ -34,3 +34,9 @@ Bishoujo Super Street Fighter II: Glamor Queen (and the New Femme Fatales) is a 
 -Activate V-ISM Normals/Belva/Nightmare Dictator with Back+X+Y+Z+B or Back+Y+Z+B+C 
 
 -Access Boss Rush by selecting Arcade and holding B
+
+#  See Also
+
+[Discord Server][discord-server]
+
+[discord-server]: https://discord.gg/kBQZ2Kd2Qw
