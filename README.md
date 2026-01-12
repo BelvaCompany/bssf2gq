@@ -3,37 +3,39 @@ Bishoujo Super Street Fighter II: Glamor Queen (and the New Femme Fatales) is a 
 
 # Features
 
--Fighter Replacements
+- Fighter Replacements
 
--Charge Times Disabled, Air Specials
+- Charge Times Disabled, Air Specials
 
--Back Dashes (Emily and Madonna can also Forward Dash)
+- Back Dashes (Emily and Madonna can also Forward Dash)
 
--Guard Cancels into Dashes that can be followed with Special Moves
+- Guard Cancels into Dashes that can be followed with Special Moves
 
--Easier Arcade Mode (CPU no longer damage cheats)
+- Easier Arcade Mode (CPU no longer damage cheats)
 
--New Moves, such as Zangief's Coconut Thunder and Sagat's Tiger Dive
+- New Moves, such as Zangief's Coconut Thunder and Sagat's Tiger Dive
 
--Getting hit out of Empty Jumps by non-knockdown attacks makes you drop down
+- Getting hit out of empty jumps by non-knockdown attacks makes you drop down
 
--Stage Select in Arcade Mode
+- Stage Select in Arcade Mode
 
--Easy Death Combos
+- Easy Death Combos
 
--Access Debug Menu by selecting Options, and holding the A or Mode Buttons
+- Access Debug Menu by selecting Options, and holding the A or Mode Buttons
 
--Refill Lifebars and Time Limit in Versus Mode by holding both Players' Mode Buttons
+- Refill Lifebars and Time Limit in Versus Mode by holding both Players' Mode Buttons
 
--Random CPU Colors in Arcade Mode, by holding Mode button
+- Random CPU Colors in Arcade Mode, by holding Mode button
 
--Switch to the character defeated with Down+A+B+C
+- Switch to the character defeated with Down+A+B+C
 
--Switch to the same character with Up+A+B+C
+- Switch to the same character with Up+A+B+C
 
--Activate V-ISM Normals/Belva/Nightmare Dictator with Back+X+Y+Z+B or Back+Y+Z+B+C 
+- Activate V-ISM Normals/Belva/Nightmare Dictator with Back+X+Y+Z+B or Back+Y+Z+B+C 
 
--Access Boss Rush by selecting Arcade and holding B
+- Access Boss Rush by selecting Arcade and holding B
+
+- Air Chains
 
 #  See Also
 
