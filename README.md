@@ -1,6 +1,14 @@
 # bssf2gq
 Bishoujo Super Street Fighter II: Glamor Queen (and the New Femme Fatales) is a Combo ROM Hack of the Sega Genesis version of Super Street Fighter II, where some of the fighters are replaced with female characters from various franchises.
 
+- E. Honda is changed to Choi Jadoo from Hello Jadoo
+- Blanka is changed to Roll from Mega Man
+- Dhalsim is changed to Mai Shiranui from Fatal Fury and King of Fighters
+- Boxer is changed to Avra Yumeno and Belva Lina, two original creations
+- Fei Long is changed to Emily from Unholy Night: The Darkness Hunter
+- Dee Jay is changed to Madonna de Swan from the Makeruna! Makendou series
+
+
 # Features
 
 - Fighter Replacements
