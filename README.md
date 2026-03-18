@@ -27,9 +27,9 @@ Bishoujo Super Street Fighter II: Glamor Queen (and the New Femme Fatales) is a 
 
 - Random CPU Colors in Arcade Mode, by holding Mode button
 
-- Switch to the character defeated with Down+A+B+C
+- Switch to the character defeated in Arcade Mode with Down+A+B+C
 
-- Switch to the same character with Up+A+B+C
+- Switch to the same character as the CPU in Arcade Mode with Up+A+B+C
 
 - Activate V-ISM Normals/Belva/Nightmare Dictator with Back+X+Y+Z+B or Back+Y+Z+B+C 
 
