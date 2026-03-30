@@ -1,4 +1,4 @@
-# bssf2gq
+# Bishoujo Super Street Fighter II: Glamor Queen
 Bishoujo Super Street Fighter II: Glamor Queen (and the New Femme Fatales) is a Combo ROM Hack of the Sega Genesis version of Super Street Fighter II, where some of the fighters are replaced with female characters from various franchises.
 
 - E. Honda is changed to Choi Jadoo from Hello Jadoo
