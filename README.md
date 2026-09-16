@@ -5,6 +5,7 @@ Bishoujo Super Street Fighter II: Glamor Queen (and the New Femme Fatales) is a 
 - Blanka is changed to Roll from Mega Man
 - Dhalsim is changed to Mai Shiranui from Fatal Fury and King of Fighters
 - Boxer is changed to Avra Yumeno and Belva Lina, two original creations
+- T. Hawk is changed to Suwako Moriya from the Touhou series, starting in Rev. 3.0
 - Fei Long is changed to Emily from Unholy Night: The Darkness Hunter
 - Dee Jay is changed to Madonna de Swan from the Makeruna! Makendou series
 
