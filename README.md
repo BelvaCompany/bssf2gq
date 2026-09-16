@@ -16,7 +16,7 @@ Bishoujo Super Street Fighter II: Glamor Queen (and the New Femme Fatales) is a 
 
 - Charge Times Disabled, Air Specials
 
-- Back Dashes (Emily and Madonna can also Forward Dash)
+- Back Dashes (Suwako,Emily and Madonna can also Forward Dash)
 
 - Guard Cancels into Dashes that can be followed with Special Moves
 
