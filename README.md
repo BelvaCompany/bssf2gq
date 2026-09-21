@@ -11,6 +11,7 @@ Bishoujo Super Street Fighter II: Glamor Queen (and the New Femme Fatales) is a 
 - Fei Long is changed to Emily from Unholy Night: The Darkness Hunter
 - Dee Jay is changed to Madonna de Swan from the Makeruna! Makendou series
 
+The latest release can be downloaded [here](https://github.com/BelvaCompany/bssf2gq/releases). Patch over an unmodified MD US SSF2 ROM.
 
 # Features
 
