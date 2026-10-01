@@ -36,6 +36,11 @@ The latest release can be downloaded [here](https://github.com/BelvaCompany/bssf
 - Access New Femme Fatale Conquest by selecting Arcade and holding X
 - Access Bonus Stage Practice by selecting Arcade and holding Y
 
+# Screenshots
+  <img width="256" height="224" alt="Character Select" src="https://github.com/user-attachments/assets/f10ec347-b87b-4918-8a26-7bee7643cfbe" />
+<img width="256" height="224" alt="1616" src="https://github.com/user-attachments/assets/eab2ffb8-d5df-4432-8073-028664a46339" />
+
+
 #  See Also
 
 [Discord Server][discord-server]
